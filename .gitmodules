@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/fabricevinatierpro-hub/fabricevinatierpro-hub.r-universe.dev
 	branch = HEAD
+[submodule "datalift"]
+	path = datalift
+	url = https://forge.inrae.fr/fabrice.vinatier/datalift.git
