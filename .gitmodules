@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/fabricevinatierpro-hub/fabricevinatierpro-hub.r-universe.dev
 	branch = HEAD
+[submodule "RADIS"]
+	path = RADIS
+	url = https://forge.inrae.fr/umr-g-eau/radis.git
 [submodule "datalift"]
 	path = datalift
 	url = https://forge.inrae.fr/fabrice.vinatier/datalift.git
+[submodule "lidarHD"]
+	path = lidarHD
+	url = https://forge.inrae.fr/lidar/lidarHD.git
